@@ -12,7 +12,7 @@ Requires Java 8 to run. ([download java](https://www.java.com/en/download/))
 ## About Project  
   
 #### Original Project Goals  
-- Learn to use Java in combination with LibGDX/Box2D engine.
+- Learn to use Java in combination with LibGDX/Box2D engine (+gradle).
 - Test certain art style.
 - Test gameplay with certain parameters:
   - Player must be represented however the game must be playable with one finger.
