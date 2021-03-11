@@ -11,7 +11,7 @@ Requires Java 8 to run. ([download java](https://www.java.com/en/download/))
   
 ## About Project  
   
-### Original Project Goals:  
+#### Original Project Goals  
 - Learn to use Java in combination with LibGDX/Box2D engine.
 - Test certain art style.
 - Test gameplay with certain parameters:
@@ -21,7 +21,7 @@ Requires Java 8 to run. ([download java](https://www.java.com/en/download/))
     - physics 
     - level layout (ie. maze containing puzzles)
 
-### Gameplay Conclusions:  
+#### Gameplay Conclusions  
 Despite the simplified controls, the physics themselves make this game more "difficult on the platformer/arcade side" (more than expected), meanwhile the "puzzle side" most probably suffers for it.  
 The feedback gave birth to three alternative drafts, each of which focuses on one of these aspects (arcade vs puzzle), however these only exist on paper for now.  
   
