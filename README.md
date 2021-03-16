@@ -24,5 +24,6 @@ Requires Java 8 to run. ([download java](https://www.java.com/en/download/))
     - level layout (ie. maze containing puzzles)
 
 #### Gameplay Conclusions  
+  
 Despite the simplified controls, the physics themselves make this game more "difficult on the platformer/arcade side" (more than expected), meanwhile the "puzzle side" most probably suffers for it.  
 The feedback gave birth to three alternative drafts, each of which focuses on one of these aspects (arcade vs puzzle), however these only exist on paper for now.  
