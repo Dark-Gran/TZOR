@@ -6,7 +6,7 @@ This is a FREE game prototype.
   
 [RELEASE DOWNLOAD](https://github.com/Dark-Gran/TZOR/releases/tag/1.0)  
   
-Requires Java 8 to run. ([download java](https://www.java.com/en/download/))  
+Does not include JRE and therefore requires Java 8 to run. ([download java](https://www.java.com/en/download/))  
   
   
 ## About Project  
