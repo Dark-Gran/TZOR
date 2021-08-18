@@ -8,7 +8,7 @@ This is a FREE game prototype.
   
 Does not include JRE and therefore requires Java 8 to run. ([download java](https://www.java.com/en/download/))  
   
-If you'd like to give us feedback or see our other projects, [join us on Discord!](https://discord.com/invite/N4JxKsX3Q5)
+If you'd like to give us feedback or see our other projects, [join us on Discord!](https://discord.com/invite/N4JxKsX3Q5)![discord_icon](discord64flip.png)
   
 ## About Project  
   
