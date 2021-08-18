@@ -7,7 +7,7 @@ This is a FREE game prototype.
 [RELEASE DOWNLOAD](https://github.com/Dark-Gran/TZOR/releases/tag/1.0)  
   
 Does not include JRE and therefore requires Java 8 to run. ([download java](https://www.java.com/en/download/))  
-If you'd like to give us feedback or see our other projects, [join us on Discord!](https://discord.com/invite/N4JxKsX3Q5)[![discord_icon](https://github.com/Dark-Gran/Farstar-2/blob/master/discord64flip.png)](https://discord.com/invite/N4JxKsX3Q5)
+If you'd like to give us feedback or see our other projects, [join us on Discord!](https://discord.com/invite/N4JxKsX3Q5)[![discord_icon](https://github.com/Dark-Gran/Farstar-2/blob/master/discord32flip.png)](https://discord.com/invite/N4JxKsX3Q5)
   
 ## About Project  
   
