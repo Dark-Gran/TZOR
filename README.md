@@ -27,4 +27,4 @@ If you'd like to give me feedback or see my other projects, [join us on Discord!
   
 Despite the simplified controls, the physics themselves make this game more "difficult on the platformer/arcade side" (more than expected), meanwhile the "puzzle side" most probably suffers for it.  
 The feedback gave birth to three alternative drafts, each of which focuses on one of these aspects (arcade vs puzzle), however these only exist on paper for now.  
-Note: As for the art style, it cries for a rework (lack of details; not mentioning lack of effects, these would come later in the project).
+Note: As for the art style, it cries for a rework (number of pixels; not mentioning lack of effects, these would come later in the project).
