@@ -8,8 +8,6 @@ This is a FREE game prototype.
   
 Does not include JRE and therefore requires Java 8 to run. ([download java](https://www.java.com/en/download/))  
   
-If you want to learn about _everything_ I do, I'll be happy if you [follow me on my humble Twitter](https://twitter.com/DarkGran_CZ).  
-  
 ## About Project  
   
 ([see original website](https://github.com/Dark-Gran/TZOR-Website))
